@@ -30,5 +30,6 @@ It uses the same parameters as the dataset:
   pip install pandas numpy scikit-learn streamlit plotly
 
 ## To run the app locally:
-``bash streamlit run traffic_forecast_app.py
-``
+```bash
+streamlit run traffic_forecast_app.py
+
